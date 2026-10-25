@@ -3,6 +3,8 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.savoj.myapplication",
-    "sha256_cert_fingerprints": ["ВАШ:SHA256:ТУТ"]
+    "sha256_cert_fingerprints": [
+      "41:70:D6:04:C7:74:1C:FD:EE:1E:2A:EA:50:10:26:36:04:79:8C:0D:9B:B7:5B:D4:43:00:ED:0C:D0:E1:9D:17"
+    ]
   }
 }]
